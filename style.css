@@ -1,0 +1,149 @@
+.header{
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+}
+.content{
+	display: flex;
+	padding: 20px;
+}
+.down{
+	display: flex;
+	justify-content: space-between;
+}
+.left{
+	width: 50%;
+}
+.right{
+	width: 50%;
+}
+.img{
+	width: 100%;
+}
+.mini{
+	width: 32.9%;
+}
+.link{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 20px;
+}
+.link:hover{
+	background: white;
+	color: black;
+}
+.logo{
+	width: 98px;
+}
+.menu{
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+}
+.menu-link{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	padding: 20px;
+}
+.menu-link:hover{
+	background: white;
+	color: black;
+}
+.buttom{
+	text-align: center;
+}
+.text{
+	padding: 20px;
+}
+.shop{
+	display: flex;
+	flex-wrap: wrap;
+}
+.product{
+	border: 1px solid;
+	width: 280px;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.product-image{
+	width: 100%;
+}
+.view-more{
+	color: black;
+}
+.product-image-single{
+	padding: 20px;
+	width: 350px;
+	padding-left: 275px;
+}
+.footer{
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+}
+.footer-img{
+	width: 125px;
+	padding: 20px;
+}
+.footer-text{
+	color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.map{
+	padding-left: 325px;
+}
+.buy{
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	background-color: black;
+	padding: 20px;
+}
+.buy:hover{
+	background: white;
+	color: black;
+}
+.send{
+	font-size: 14px;
+}
+.product-basket{
+	border: 1px solid;
+	width: 500px;
+	height: 200px;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 10px;
+	display: flex;
+}
+.view-more-basket{
+	color: black;
+}
+.product-title-basket{
+	font-size: 30px;
+}
+.product-price-basket{
+	font-size: 20px;
+}
+.basket-text{
+	padding-left: 25px;
+}
+.product-title-basket{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.product-price-basket{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.input-basket{
+	padding-left: 600px;
+}
+.about-us{
+	padding-left: 300px;
+}
+}
